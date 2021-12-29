@@ -1,5 +1,5 @@
-# Week 5 - Wednesday 
-## Example 4.1 
+# Week 5
+## Example 5.1 
 ## D3 Line Generator
 
 <ol>
