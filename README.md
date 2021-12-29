@@ -1,2 +1,3 @@
-# Fall2021-Week-5-Friday
- D3 Generators
+# Week-5 
+## D3 Generators
+In these example D3JS Generators are used to create stacked barchart, and area charts.
