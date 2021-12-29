@@ -1,3 +1,3 @@
 # Week 5 - Wednesday 
-## Example 4.2 
+## Example 5.2 
 ## Custom line function
