@@ -24,11 +24,11 @@
 
 </li>
 
-<li> Get min max (extents) of variable to 
+<li> Get min max (extent) of variable to 
 make appropriate scales
 
 ```
-    let min_max_date = d3.extens(d3.extent(data, function(d) { return d.date; })
+    let min_max_date = d3.extent(data, function(d) { return d.date; })
     let min_max_of_width = [0, 500]
     let xScale = d3.scaleTime()
                 .domain(min_max_date)
